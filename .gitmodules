@@ -1,4 +1,0 @@
-[submodule "Resume"]
-	path = Resume
-	url = git@github.com:zaidqureshi2/Resume.git
-	branch = gh-pages
