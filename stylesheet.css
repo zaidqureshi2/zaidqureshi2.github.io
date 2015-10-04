@@ -1,0 +1,94 @@
+body{
+	/*background-image: url("background.jpg");*/
+	margin: 0;
+	background: rgba(41,41,41,0.7);
+	text-align: center;
+}
+
+.heading{
+	     color: burlywood;
+	     padding-top: 3rem !important;
+ font-family: 'Trocchi', serif; font-size: 45px; font-weight: normal; line-height: 48px; margin: 0;
+}
+.center{
+	text-align: center;
+}
+.nav-button {
+
+	background-color: #5f9ea0;
+  
+  font: 300 1.25rem 'Open Sans', sans-serif;
+  color: #fff;
+  height: 3.25rem;
+  width: 7.5rem;
+  line-height: 3.25rem;
+  /* padding: 0 0rem; */
+  text-decoration: none;
+  margin: 1rem;
+  display: inline-block;
+  transition: all 0.3s ease 0s;
+  text-align: center;
+}
+.picture{
+	height: 150px;
+	width: 150px;
+	float: left;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.container{
+	  margin-left: auto;
+    margin-right: auto;
+    color: lightgray;
+    background: rgba(41, 41, 41, 0.6);
+    /* border: 1px solid; */
+    font: 300 1rem 'Open Sans', sans-serif;
+    text-align: left;
+    line-height: 1.25rem;
+    border-radius: 3px;
+    padding: 3rem;
+
+}
+.container a:visited {color:lightblue;}
+.sidepanel{
+
+}
+.twitter:hover{
+	
+  background: #659FCB
+	
+}
+.github:hover{
+	
+  background: #292929
+	
+}
+.linkedin:hover{
+	
+  background: #1A85BC
+	
+}
+.resume:hover{
+	
+  background: #B4C2A4
+	
+}
+
+
+@media screen and (max-width: 630px){
+	.nav-button{
+		display: block;
+		width: auto;
+	}
+}
+@media screen and (max-width: 430px){
+	.picture-span{
+		width: 100%;
+		text-align: center;
+	
+
+	}
+  .picture{
+  	float: none;
+  }	
+}
