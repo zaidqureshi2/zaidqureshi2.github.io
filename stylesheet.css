@@ -76,6 +76,12 @@ body{
 .about-me {
 	text-align: justify;
 }
+.about-me > span > a {
+	color: inherit;
+	&:visited {
+		color: inherit;	
+	}
+}
 
 @media screen and (max-width: 630px){
 	.nav-button{
