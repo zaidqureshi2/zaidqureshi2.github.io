@@ -20,7 +20,7 @@ body{
   font: 300 1.25rem 'Open Sans', sans-serif;
   color: #fff;
   height: 3.25rem;
-  width: 7.5rem;
+  width: 8.5rem;
   line-height: 3.25rem;
   /* padding: 0 0rem; */
   text-decoration: none;
@@ -83,7 +83,7 @@ body{
 	color: inherit;	
 }
 
-@media screen and (max-width: 630px){
+@media screen and (max-width: 855px){
 	.nav-button{
 		display: block;
 		width: auto;
