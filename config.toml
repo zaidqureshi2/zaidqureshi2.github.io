@@ -1,0 +1,40 @@
+baseurl = "https://zaid.work"
+title = "Zaid Qureshi"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+publishDir="docs"
+
+[params]
+  description = 'I am a Software Engineer and an Entrepreneur. My interest in programming started with making a small animation in Java console. Of course, then I did not know how to make loops or any programming skills, but something in the painful process of coloring on top of lines and boxes to erase, using Thread.Sleep(100); to animate, and copy pasting hundreds of lines with small changes had attracted me. Then as I evolved and started figuring out solutions by making algorithms made me feel good, and that feeling keeps me coding. Since my first program in Grade 10 to now, I have gained experience through leading many projects using various web and mobile technologies.'
+  copyright = "Untitled"
+  logoimage = "/images/profilepic_round.jpg"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
+description = 'I am a Software Engineer and an Entrepreneur. My interest in programming started with making a small animation in Java console. Of course, then I did not know how to make loops or any programming skills, but something in the painful process of coloring on top of lines and boxes to erase, using Thread.Sleep(100); to animate, and copy pasting hundreds of lines with small changes had attracted me. Then as I evolved and started figuring out solutions by making algorithms made me feel good, and that feeling keeps me coding. Since my first program in Grade 10 to now, I have gained experience through leading many projects using various web and mobile technologies.'
