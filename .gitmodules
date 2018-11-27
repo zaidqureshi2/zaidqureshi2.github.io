@@ -1,6 +1,0 @@
-[submodule "Resume"]
-	path = /docs/Resume
-	url = https://github.com/zaidqureshi2/Resume.git
-[submodule "dimension"]
-	path = /themes/dimension
-	url = git@github.com:zaidqureshi2/dimension.git
